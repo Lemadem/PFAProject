@@ -1,0 +1,664 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\cabinetmedecin2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\cabinetmedecin2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\view1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\view1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\data\\gestiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\data\\gestiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\data\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\data\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\controllers\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\controllers\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\controllers\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\controllers\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\patient\\patientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\patient\\patientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\assistant\\assistantdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\assistant\\assistantdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\medecin\\medecindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\medecin\\medecindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\controllers\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\controllers\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\cabinetmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\cabinetmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\migrations\\gestiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\migrations\\gestiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\assistante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\assistante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\servicemedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\servicemedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\personnelmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\personnelmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\examenmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\examenmedical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\models\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\models\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|c:\\users\\hp\\source\\repos\\cabinetmedecin2\\cabinetmedecin2\\migrations\\20240515191756_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E137B8-A434-4616-98CE-DB5BBCBE1032}|CabinetMedecin2\\CabinetMedecin2.csproj|solutionrelative:cabinetmedecin2\\migrations\\20240515191756_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:26:32.196Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\view1\\Index.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\view1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\view1\\Index.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\view1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:29:06.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:17:39.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CabinetMedecin2.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\CabinetMedecin2.csproj",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\CabinetMedecin2.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\CabinetMedecin2.csproj",
+              "RelativeToolTip": "CabinetMedecin2\\CabinetMedecin2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T18:09:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Data\\GestionDbContext.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Data\\GestionDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Data\\GestionDbContext.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Data\\GestionDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:53:02.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbcontexts.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Data\\dbcontexts.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Data\\dbcontexts.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Data\\dbcontexts.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Data\\dbcontexts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:27:52.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:16:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwPTgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:18:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAmpmZmZkdwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:21:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Medecin.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Controllers\\Medecin.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Medecin.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Controllers\\Medecin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:34:16.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Patient\\PatientDashboard.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Patient\\PatientDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Patient\\PatientDashboard.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Patient\\PatientDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:36:50.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Assistant.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Controllers\\Assistant.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Assistant.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Controllers\\Assistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:34:59.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Startup.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Startup.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Startup.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Startup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwEgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:46:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssistantDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Assistant\\AssistantDashboard.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Assistant\\AssistantDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Assistant\\AssistantDashboard.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Assistant\\AssistantDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:40:21.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Program.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Program.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:41:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedecinDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Medecin\\MedecinDashboard.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Medecin\\MedecinDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Medecin\\MedecinDashboard.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Medecin\\MedecinDashboard.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:39:04.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Patient.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Controllers\\Patient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\Patient.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Controllers\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:33:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Medecin.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Medecin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:11:38.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:24:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CabinetMedical.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\CabinetMedical.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\CabinetMedical.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\CabinetMedical.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\CabinetMedical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:35:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Paiement.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Paiement.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Paiement.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Paiement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240515191756_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Migrations\\20240515191756_initialmigration.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Migrations\\20240515191756_initialmigration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Migrations\\20240515191756_initialmigration.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Migrations\\20240515191756_initialmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:17:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Migrations\\GestionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Migrations\\GestionDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Migrations\\GestionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Migrations\\GestionDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAACA//////8PwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:15:34.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Assistante.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Assistante.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Assistante.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Assistante.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Assistante.cs",
+              "ViewState": "AQIAAAQAAACgmZmZmZkhwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:11:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:35:19.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:17:46.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:26:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:17:51.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CabinetMedecin2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:17:49.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\appsettings.json",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\appsettings.json",
+              "RelativeToolTip": "CabinetMedecin2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T14:40:43.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\RendezVous.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\RendezVous.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:29:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceMedical.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ServiceMedical.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\ServiceMedical.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ServiceMedical.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\ServiceMedical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonnelMedical.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\PersonnelMedical.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\PersonnelMedical.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\PersonnelMedical.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\PersonnelMedical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Personne.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Personne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:02.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Patient.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:29:32.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Facture.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Facture.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Facture.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Facture.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Facture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:21.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExamenMedical.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ExamenMedical.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\ExamenMedical.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ExamenMedical.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\ExamenMedical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:30:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:56:22.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DossierPatient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\DossierPatient.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\DossierPatient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\DossierPatient.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\DossierPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:01.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Procedure.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Procedure.cs",
+              "RelativeDocumentMoniker": "CabinetMedecin2\\Models\\Procedure.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CabinetMedecin2\\CabinetMedecin2\\Models\\Procedure.cs",
+              "RelativeToolTip": "CabinetMedecin2\\Models\\Procedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:30:57.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
