@@ -31,7 +31,7 @@ namespace CabinetMedecin.Data
                .HasDiscriminator<string>("Role")
                .HasValue<Patient>("patient")
                .HasValue<Medecin>("medecin")
-               .HasValue<Assistant>("assistant");
+               .HasValue<Assistante>("assistant");
 
 
         }
