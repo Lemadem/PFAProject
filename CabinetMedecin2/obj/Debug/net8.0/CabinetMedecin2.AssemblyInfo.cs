@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CabinetMedecin2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a31eccded3120fad6aa111456ab4fa0e2151df6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CabinetMedecin2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CabinetMedecin2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

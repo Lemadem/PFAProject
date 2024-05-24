@@ -4,7 +4,6 @@
     {
       
             public int AssistantId { get; set; }
-            public string Nom { get; set; }
             public string Poste { get; set; }
             // Autres propriétés spécifiques à l'assistante
 

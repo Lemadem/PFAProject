@@ -1,4 +1,5 @@
-﻿using CabinetMedecin2.Models;
+﻿using CabinetMedecin2.Controllers;
+using CabinetMedecin2.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CabinetMedecin.Data
@@ -20,13 +21,24 @@ namespace CabinetMedecin.Data
             modelBuilder.Entity<PersonnelMedical>().HasKey(p => p.id_personnelmedical);
             modelBuilder.Entity<Medecin>().HasKey(p => p.MedecinId);
             modelBuilder.Entity<Assistante>().HasKey(p => p.AssistantId);
+            modelBuilder.Entity<User>().HasKey(c => c.Id);
 
             modelBuilder.Entity<ServiceMedical>().HasKey(p => p.id_service);
 
 
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<User>()
+               .HasDiscriminator<string>("Role")
+               .HasValue<Patient>("patient")
+               .HasValue<Medecin>("medecin")
+               .HasValue<Assistant>("assistant");
+
+
         }
 
+       
+        
+        public DbSet<User> Users { get; set; }
         public DbSet<CabinetMedical> CabinetsMedicaux { get; set; }
         public DbSet<Patient> Patients { get; set; }
         public DbSet<RendezVous> RendezVous { get; set; }

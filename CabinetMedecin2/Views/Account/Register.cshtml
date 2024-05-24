@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model RegisterViewModel
+
+<h2>Inscription</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+    </div>
+    <div>
+        <label asp-for="ConfirmPassword"></label>
+        <input asp-for="ConfirmPassword" type="password" />
+    </div>
+    <div>
+        <label asp-for="Role"></label>
+        <select asp-for="Role">
+            <option value="patient">Patient</option>
+            <option value="medecin">Médecin</option>
+            <option value="assistant">Assistant</option>
+        </select>
+    </div>
+    <button type="submit">S'inscrire</button>
+</form>
+

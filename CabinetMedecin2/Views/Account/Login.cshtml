@@ -4,18 +4,27 @@
 
 
 
+@model LoginViewModel
 
-<div class="container">
-    <h1>Connexion</h1>
-    <form asp-controller="Account" asp-action="Login" method="post">
-        <div class="mb-3">
-            <label for="InputEmail" class="form-label">Email</label>
-            <input type="text" class="form-control" id="InputEmail" name="Email" required>
-        </div>
-        <div class="mb-3">
-            <label for="InputPassword" class="form-label">Mot de passe</label>
-            <input type="password" class="form-control" id="InputPassword" name="Password" required>
-        </div>
-        <button type="submit" class="btn btn-primary">Se connecter</button>
-    </form>
-</div>
+<h2>Connexion</h2>
+
+<form asp-action="Login" method="post">
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+    </div>
+    <button type="submit">Se connecter</button>
+</form>
+@if (ViewData.ModelState.Count > 0)
+{
+    <div>
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
