@@ -1,6 +1,6 @@
 ﻿namespace CabinetMedecin2.Models
 {
-    public class Patient
+    public class Patient:User
     {
         public int id_patient{ get; set; }
         public DateTime DateNaissance { get; set; }

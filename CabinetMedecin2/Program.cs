@@ -1,4 +1,4 @@
-using CabinetMedecin.Data;
+using CabinetMedecin2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System.Runtime.CompilerServices;

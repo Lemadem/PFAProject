@@ -28,5 +28,13 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
   </ItemGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.0" />
+		<!-- Autres références de package si nécessaire -->
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\CheminVersVotreProjetAvecRegisterViewModel.csproj" />
+	</ItemGroup>
 
 </Project>

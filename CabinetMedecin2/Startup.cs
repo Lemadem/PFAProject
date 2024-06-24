@@ -1,4 +1,4 @@
-﻿using CabinetMedecin.Data;
+﻿using CabinetMedecin2.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace CabinetMedecin2

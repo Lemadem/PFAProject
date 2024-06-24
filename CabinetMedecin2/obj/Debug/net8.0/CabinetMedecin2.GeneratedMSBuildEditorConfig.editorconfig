@@ -22,7 +22,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\CabinetMedecin2\CabinetMedecin2
 build_property._RazorSourceGeneratorDebug = 
 
@@ -64,26 +64,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/view1/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlldzFcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/view1/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlldzFcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/view1/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlldzFcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/view1/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlldzFcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/view1/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlldzFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/CabinetMedecin2/CabinetMedecin2/Views/_ViewImports.cshtml]
